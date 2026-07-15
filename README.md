@@ -1,4 +1,4 @@
-# Serpente
+# SNAKE
 
 Il classico gioco del serpente, riprodotto con HTML5 Canvas, CSS e JavaScript puro.
 
